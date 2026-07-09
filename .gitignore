@@ -1,0 +1,26 @@
+# Maven
+**/target/
+target/
+
+# Maven installation folders
+**/apache-maven-*/
+apache-maven-*/
+
+# IDEs and Editors
+**/.idea/
+**/*.iml
+**/.project
+**/.classpath
+**/.settings/
+**/.vscode/
+
+# Compiled Java class files
+**/*.class
+
+# Log files
+**/*.log
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
