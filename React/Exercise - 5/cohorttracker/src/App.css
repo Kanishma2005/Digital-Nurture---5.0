@@ -1,0 +1,13 @@
+.container {
+  margin: 20px;
+}
+
+.cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: nowrap;
+}
+
+h1 {
+  margin-left: 20px;
+}
